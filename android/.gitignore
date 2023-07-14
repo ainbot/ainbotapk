@@ -1,0 +1,25 @@
+# OSX
+#
+.DS_Store
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+
+# Bundle artifacts
+*.jsbundle
+
+# iOS
+#
+# Comment the following lines to remove iOS related files
+# ios/
+# *.pbxproj
+# *.xcworkspace
+# *.xcconfig
+# /ios/Pods/
+
